@@ -1,10 +1,10 @@
 + "Crew Three" Project
 
-++ Overview and background
+~ h2 Overview and background
 
-We propose to bring more Foundation personnel to Extraterrestrial Site-301, situated on Mars. The ideal number is around eight. We also propose the construction and launch of a new reusable Earth-Mars cargo vessel. This would allow more materials and parts to be brought to Mars per launch window, allowing faster expansion of the Site.
+We propose to bring more Foundation personnel to Extraterrestrial Site-301, situated on Mars. We also propose the construction and launch of a reusable Earth-Mars cargo vessel. This would allow more materials and parts to be brought to Mars per launch window, allowing faster expansion of the Site.
 
-Extraterrestrial Site-301 was first established autonomously in 2011. The first six humans ("Crew One") arrived at the site in 2017. In 2018, Crew Two was sent, this time comprising of ten individuals. They arrived in early 2019. On the return trip (four months after arrival), three members of Crew One and one member of Crew Two returned to Earth. They are projected to arrive in April.
+Extraterrestrial Site-301 was first established autonomously in 2011. The first six humans ("Crew One") arrived at the site in 2017. In 2018, Crew Two was sent, this time comprising of ten individuals. They arrived in early 2019. On the return trip (four months after arrival), three members of Crew One and one member of Crew Two returned to Earth. They are projected to arrive in Earth orbit in April.
 
 At present there are 12 personnel at ET Site-301.
 
@@ -12,15 +12,15 @@ The main way of bringing personnel from Earth to Mars is the FSS Endurance, name
 
 The Endurance has enough room and life support for eleven baseline humans. However, we believe a slightly smaller crew (eight members) would be better suited for the mission, as ET Site-301 only has room for 20 baseline humans. As such, bringing more than eight crew members would require expanding the Site, which would in turn require bringing equipment up from Earth. While this is possible and even feasible, history tells us that it's best not to take risks with space travel. 
 
-++ Motivation
+~ h2 Motivation
 
-Currently, three of the 12 personnel at ET Site-301 have been there since 2017, and all of them wish for a transfer back to Earth. In particular, the Site Director (Edmund Scott) has requested to return to Earth, meaning a new Base Commander will need to be selected. Sending a mission to bring back three people is a gross waste of resources, but the effects of long-term isolation on humans are not fully known. As such, we believe bringing back any personnel who wish to return to Earth is a high priority, so some kind of mission must be sent.
+Currently, three of the 12 personnel at ET Site-301 have been there since 2017, and all of them wish for a transfer back to Earth. In particular, the Site Director (Edmund Scott) has requested to return to Earth, meaning a new Base Commander will need to be selected. Sending a mission to Mars just to bring back three people is a gross waste of resources, but the effects of long-term isolation on humans are not fully known. As such, we believe leaving these people on Mars is not an option.
 
 A higher personnel count is also desirable for the purpose of expanding the Site. While a simple shipment of parts and machinery could be sent and landed autonomously, a crew of twelve people would likely be unable to manage a large expansion by themselves. This problem would be compounded when several personnel leave on the return trip.
 
 Another, more long-term objective is to provide a safe refuge for humanity beyond Earth. This is a particularly pressing issue in the face of SCP-3848, which has been growing in severity since 2017. Current best estimates suggest a rate of one Lethe event per day may be reached by the late 2020s or early 2030s.
 
-++ Suggested timeline
+~ h2 Suggested timeline
 
 * April 2020: Crew selected and assembled at Site-93
 * April-June 2020: Ground training
@@ -32,28 +32,31 @@ Another, more long-term objective is to provide a safe refuge for humanity beyon
 
 This timeline is largely left open, save for the transfer and capture burns. While these could be moved by a few days in either direction, we have already calculated a trajectory and we feel they are best left in place.
 
-The training times were chosen based on those given to Crews One and Two. Crew one received significantly more training (3 months on Earth and 4 in orbit) because they were going to be the first humans on Mars. Nothing could be left to chance. Crew Two, however, received two months on Earth and two months in orbit, and everything worked out fine.
+The training times were chosen based on those given to Crews One and Two. Crew one received significantly more training (3 months on Earth and 4 in orbit) because they were going to be the first humans on Mars. Nothing could be left to chance. Crew Two, however, received two months on Earth and two months in orbit. In light of their success, we are electing to continue this training profile for Crew Three.
 
-++ Crew selection
+~ h2 Crew selection
 
 A shortlist of crew will be prepared, based on a number of factors. These will include relevant skills, replaceability on Earth, psychological profiling, and physical health. Personnel considered critical for any Earth-based activities (such as coordination of Task Forces or Sites, containment of high-risk anomalies, etc) will deliberately not be selected.
 
-Relevant skills include scientific disciplines such as biology and psychology, as well as engineering expertise. Outside of these core required fields, the Site is useful as a research location. In light of this, we suggest other scientific fields such as physics or memetics be represented. At least one member of the crew should have leadership experience, due to the requirement of a new Site Director.
+Relevant skills include scientific disciplines such as biology and psychology, as well as engineering expertise. Outside of these core required fields, the Site is useful as a research location, and we suggest other scientific fields such as physics or memetics be represented. At least one member of the crew should have leadership experience, due to the requirement of a new Site Director.
 
-++ The Ansible
+~ h2 The Ansible
 
 The Phased Tachyon Communicator (PTC; colloquially known as the Ansible) is a device under development by research teams at Site-43 to facilitate faster-than-light transmission of information. This would neatly solve the communication problem between ET Site-301 and the Foundation on Earth, and provide personnel on Mars with a higher-speed link to Earth, improving quality of life. As such, we propose that one is brought to Mars with Crew Three.
 
-This plan is contingent on the technology being ready by the time of the ejection burn (see below). Site-43 estimate that a working prototype will be available by May this year.
+This element of the plan is contingent on the technology being ready by the time of the ejection burn (see "Suggested Timeline"). Site-43 estimate that a working prototype will be available by May this year.
 
-++ Secondary cargo tug
+~ h2 Secondary cargo tug
 
-The FSS Endurance is designed for crew transport first and foremost. In the past, single-use transfer and capture stages have been used to bring cargo to Mars, but this requires launching a large payload from the surface of Earth. We are running out of cover stories for large rocket launches.
+The FSS Endurance is designed for crew transport first and foremost, and does not have the fuel storage to move several tons of equipment on top of eight (or more) crew. In the past, single-use transfer and capture stages have been used to bring cargo to Mars, but this requires launching a large payload from the surface of Earth. We are running out of cover stories for large rocket launches.
 
 A reusable cargo tug would allow smaller, less noticeable launches, by allowing just the payload to be launched without the engine for the transfer stage. We propose that this vessel be fitted with a closed-cycle nuclear thermal engine, similar to FSS Endurance. Because the vessel is reusable, a large expensive engine can be justified. If possible, the vessel should be fitted with a PTC. If this is not achievable by the launch window for Crew Three, plans should be made to retrofit a PTC upon its return to Earth orbit in 2022.
 
 We propose that the vessel be named FSS Herald.
 
-++ Closing remarks
+~ h2 Closing remarks
 
 So far, Extraterrestrial Site-301 has been a great success for the Foundation and humanity. Should the time ever come that Earth must be evacuated, a foothold on Mars will be essential. It is never too early to take these steps.
+
+Foundation Dept. of Extraterrestrial Activities
+January 3rd, 2020
